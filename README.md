@@ -3,7 +3,7 @@
 ## Kirish
 > Bu Django-ga asoslangan blog ilovasi bo'lib, foydalanuvchilarga blog postlarini yaratish, o'qish, yangilash va o'chirish imkonini beradi. U blog mazmunini boshqarish uchun qulay interfeysni taqdim etadi va foydalanuvchi autentifikatsiyasi, sharhlar tizimi va qidiruv funksiyalari kabi muhim xususiyatlarni qo‘llab-quvvatlaydi. Ushbu readme fayli sizga ilovani sozlash va undan foydalanish bo'yicha yo'l-yo'riq ko'rsatadi.
 
-![todo App](https://github.com/abubakirovxolmirza/blog-application/home/media/profile_pics/pic1.png)
+![blog application](https://github.com/abubakirovxolmirza/blog-application/blob/main/home/media/profile_pics/pic1.png)
 
 ## Talablar
 > Ushbu Django blog ilovasini ishga tushirish uchun kompyuteringizda quyidagi dastur oʻrnatilgan boʻlishi kerak:
@@ -24,6 +24,17 @@ Biz serverni hozir ishga tushirishimiz kerak, shundan so'ng biz todoapp ilovasid
 ```bash 
 $ python manage.py runserver
 ```
-
 Server joylashtirilgandan so'ng, ilova uchun http://127.0.0.1:8000/todos manziliga o'ting.
 
+Endi esa siz Registration bo'limidan ro'yhatdan o'tishingiz kerak
+![blog application](https://github.com/abubakirovxolmirza/blog-application/blob/main/home/media/profile_pics/pic4.png)
+
+Ro'yhatdan o'tib bo'lganingizdan keyin Login kirgazing
+![blog application](https://github.com/abubakirovxolmirza/blog-application/blob/main/home/media/profile_pics/pic3.png)
+
+Va nihoyat endi o'zingiz uchun blog post yaratishingiz mumkin 
+![blog application](https://github.com/abubakirovxolmirza/blog-application/blob/main/home/media/profile_pics/pic2.png)
+
+Hayr salomat bo'ling 
+
+> Biz yutamiz🫡
