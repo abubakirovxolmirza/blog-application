@@ -2,7 +2,8 @@
 
 ## Kirish
 > Bu Django-ga asoslangan blog ilovasi bo'lib, foydalanuvchilarga blog postlarini yaratish, o'qish, yangilash va o'chirish imkonini beradi. U blog mazmunini boshqarish uchun qulay interfeysni taqdim etadi va foydalanuvchi autentifikatsiyasi, sharhlar tizimi va qidiruv funksiyalari kabi muhim xususiyatlarni qo‘llab-quvvatlaydi. Ushbu readme fayli sizga ilovani sozlash va undan foydalanish bo'yicha yo'l-yo'riq ko'rsatadi.
-![todo App](https://github.com/abubakirovxolmirza/b/blob/main/staticfiles/todoApp.png)
+
+![todo App](https://github.com/abubakirovxolmirza/blog-application/home/media/profile_pics/pic1.png)
 
 ## Talablar
 > Ushbu Django blog ilovasini ishga tushirish uchun kompyuteringizda quyidagi dastur oʻrnatilgan boʻlishi kerak:
